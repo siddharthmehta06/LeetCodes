@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/siddharthmehta06/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/siddharthmehta06/LeetCodes/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/siddharthmehta06/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
