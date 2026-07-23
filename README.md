@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/siddharthmehta06/LeetCodes/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/0136-single-number) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharthmehta06/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
