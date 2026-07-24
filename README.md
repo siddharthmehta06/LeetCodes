@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/siddharthmehta06/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/siddharthmehta06/LeetCodes/tree/master/1854-maximum-population-year) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthmehta06/LeetCodes/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthmehta06/LeetCodes/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siddharthmehta06/LeetCodes/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthmehta06/LeetCodes/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
