@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/siddharthmehta06/LeetCodes/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/siddharthmehta06/LeetCodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/siddharthmehta06/LeetCodes/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
