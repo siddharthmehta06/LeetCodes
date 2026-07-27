@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/0229-majority-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/siddharthmehta06/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/siddharthmehta06/LeetCodes/tree/master/1854-maximum-population-year) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/0229-majority-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthmehta06/LeetCodes/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
