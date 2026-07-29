@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/siddharthmehta06/LeetCodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +129,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddharthmehta06/LeetCodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
