@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/siddharthmehta06/LeetCodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siddharthmehta06/LeetCodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/siddharthmehta06/LeetCodes/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/siddharthmehta06/LeetCodes/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddharthmehta06/LeetCodes/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthmehta06/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/siddharthmehta06/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/siddharthmehta06/LeetCodes/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddharthmehta06/LeetCodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
