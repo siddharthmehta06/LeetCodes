@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/siddharthmehta06/LeetCodes/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/siddharthmehta06/LeetCodes/tree/master/0486-predict-the-winner) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
