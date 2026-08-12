@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthmehta06/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddharthmehta06/LeetCodes/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/siddharthmehta06/LeetCodes/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/siddharthmehta06/LeetCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/siddharthmehta06/LeetCodes/tree/master/1854-maximum-population-year) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddharthmehta06/LeetCodes/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/siddharthmehta06/LeetCodes/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddharthmehta06/LeetCodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddharthmehta06/LeetCodes/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/siddharthmehta06/LeetCodes/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
